@@ -299,10 +299,10 @@ button:focus-visible {
 }
 
 .content__video-card-thumbnail {
-  inline-size: 194px;
-  block-size: 103px;
   object-fit: cover;
   object-position: center;
+  inline-size: 194px;
+  block-size: 103px;
 }
 
 /* Конец блока content */
